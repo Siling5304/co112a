@@ -4,7 +4,7 @@
 
 這兩章主要參考[tomorrow0w0的Gitbook](https://tomorrow0w0.gitbooks.io/nand2tetris-homework/content/ "游標顯示")，裡面有相關解說及圖片，了解概念之後自己完成習題。
 
-而ALU的程式碼主要複製[patni11的Github](https://tomorrow0w0.gitbooks.io/nand2tetris-homework/content/ "游標顯示")，雖無修改但已完全理解。
+而ALU習題為先理解[tomorrow0w0的Gitbook](https://tomorrow0w0.gitbooks.io/nand2tetris-homework/content/ "游標顯示")中的圖片與解說，而程式碼主要複製[patni11的Github](https://tomorrow0w0.gitbooks.io/nand2tetris-homework/content/ "游標顯示")，雖無修改但已完全理解。
 
 ## 第三章
 
